@@ -1,0 +1,34 @@
+                                                                                  CD GROCERY
+                                                                                 P.O. BOX 123
+                                                                             BHUBANESWAR, 123456
+                                                                               (123) 456-7890
+
+                                                                 DATE: 05/07/2021 PROG: BILLBACK INVOICE                                                   PAGE: 1100
+
+                           
+
+           USER ID: ABCD                                         WE  WILL DEDUCT IF NOT PAID BY 05/04/2021
+
+           BROKER : 0012301 AB ABCDEF/ABC
+
+           VENDOR NUMBER:  511111                                                                                                                    A/P NUMBER: 3134
+
+           VENDOR  NAME: KING ARTHUR  FLOURCO INC                                                                         OUR  INVOICE #: 553121117   DATE: 05/03/2021
+
+           BUYER NUMBER:811  ROSE STEVENS                                                                                                  VOUCHER NO:  553121  PO:
+
+           CASES: 5.0000 
+   
+           POUNDS: 1.0000                                                                                                                       CODE:  900123        
+  
+           ITEM DESCRIPTION:  KING AUTHUR 2LB FLOUR     PACK: 10                                                                                SIZE: 0011.00 OZ                 
+
+           REASON: HO ABC WE 04-28-2021
+
+           UNIT PRICE: 3.8800
+
+
+
+           AMOUNT: 9.54   
+
+                                                                 
